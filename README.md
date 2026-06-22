@@ -42,7 +42,7 @@ Chicken (Gallus gallus)
 
 Frog (Xenopus laevis)
 
-These were chosen to represent different evolutionary distances.
+These were chosen to represent different evolutionary distances (primate, rodent, mammal, bird, amphibian), allowing a more meaningful comparison of conservation patterns.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,6 +83,14 @@ WHAT THIS MEANS
 Important regions of the BRCA1 protein are preserved across species because they are essential for function.
 
 Even though DNA changes over time, the protein structure remains more stable due to evolutionary pressure.
+
+The gradual decrease in similarity with increasing evolutionary distance supports the idea that sequence conservation reflects phylogenetic relationships.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BIOLOGICAL INSIGHT 
+
+Conserved regions aligned with known functional domains, suggesting that these regions are under strong evolutionary pressure to maintain BRCA1 function.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
